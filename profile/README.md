@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jph4cks/redhound-site/main/assets/og-image.png" alt="Red Hound InfoSec" width="640">
+  <img src="https://raw.githubusercontent.com/redhoundinfosec/.github/main/assets/og-image.png" alt="Red Hound InfoSec" width="640">
 </p>
 
 <h3 align="center">Your Cyber Ally</h3>
